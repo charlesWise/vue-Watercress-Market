@@ -1,9 +1,3 @@
-### 项目地址：（`git clone`）
-
-```shell
-git clone https://github.com/Awheat/vue2-douban-market.git
-```
-
 ### 安装
 
 ```
